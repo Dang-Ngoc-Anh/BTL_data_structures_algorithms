@@ -1,0 +1,26 @@
+5
+1
+Ky
+Nam Dinh
+0123201
+100000
+2
+Thang
+Nam Dinh
+08976657
+2e+07
+3
+Lam
+Ha Noi
+023042423
+120000
+4
+Kien
+Ninh Binh
+0345035
+320000
+5
+Dung
+Ninh Binh
+034503452
+20000

@@ -1,0 +1,187 @@
+5
+1
+10
+4
+Kien
+0345035
+Ninh Binh
+320000
+1
+Ngoc Duong
+094323432
+Mu Cang Chai
+1
+5
+Nha Gia Kim
+Kim Dong
+16
+Moi
+2
+2
+Lev Tolstoy
+2
+4
+1975
+la dai thi hao dan toc Nga ung ho chu nghia hoa binh va chu nghia vo chinh phu
+5
+Arthur Conan Doyle
+22
+5
+1958
+la nha van nguoi scotland viet ve tieu thuyet trinh tham biet danh la sherlock home
+2
+20
+2
+Thang
+08976657
+Nam Dinh
+2e+07
+1
+Ngoc Duong
+094323432
+Mu Cang Chai
+1
+1
+Dat Nhan Tam
+Dale Carnegie
+100
+Moi
+1
+1
+Victor Hugo
+3
+2
+1965
+la nha van nha tho nguoi phap viet theo chu nghia lang ma la 1 nha chinh tri 
+3
+50
+1
+Ky
+0123201
+Nam Dinh
+100000
+1
+Ngoc Duong
+094323432
+Mu Cang Chai
+2
+2
+Cuan theo chieu gio
+Kim Dong
+289
+Cu
+2
+1
+Victor Hugo
+3
+2
+1965
+la nha van nha tho nguoi phap viet theo chu nghia lang ma la 1 nha chinh tri 
+2
+Lev Tolstoy
+2
+4
+1975
+la dai thi hao dan toc Nga ung ho chu nghia hoa binh va chu nghia vo chinh phu
+4
+Chien tranh va hoa binh
+Kim Dong
+29
+Moi
+2
+1
+Victor Hugo
+3
+2
+1965
+la nha van nha tho nguoi phap viet theo chu nghia lang ma la 1 nha chinh tri 
+2
+Lev Tolstoy
+2
+4
+1975
+la dai thi hao dan toc Nga ung ho chu nghia hoa binh va chu nghia vo chinh phu
+4
+20
+2
+Thang
+08976657
+Nam Dinh
+2e+07
+1
+Ngoc Duong
+094323432
+Mu Cang Chai
+2
+1
+Dat Nhan Tam
+Dale Carnegie
+100
+Moi
+1
+3
+JK. Rowling
+3
+2
+1976
+la nha van nguoi Anh noi tieng voi truyˆn harry potter va dat nhieu giai thuong lon
+3
+Bo Gia
+Mario Puzo
+29
+Cu
+1
+3
+JK. Rowling
+3
+2
+1976
+la nha van nguoi Anh noi tieng voi truyˆn harry potter va dat nhieu giai thuong lon
+5
+15
+5
+Dung
+034503452
+Ninh Binh
+20000
+1
+Ngoc Duong
+094323432
+Mu Cang Chai
+3
+1
+Dat Nhan Tam
+Dale Carnegie
+100
+Moi
+1
+1
+Victor Hugo
+3
+2
+1965
+la nha van nha tho nguoi phap viet theo chu nghia lang ma la 1 nha chinh tri 
+3
+Bo Gia
+Mario Puzo
+29
+Cu
+1
+1
+Victor Hugo
+3
+2
+1965
+la nha van nha tho nguoi phap viet theo chu nghia lang ma la 1 nha chinh tri 
+5
+Nha Gia Kim
+Kim Dong
+16
+Moi
+1
+1
+Victor Hugo
+3
+2
+1965
+la nha van nha tho nguoi phap viet theo chu nghia lang ma la 1 nha chinh tri 
